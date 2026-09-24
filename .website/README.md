@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - simulation
+  - action
 directors_cut: https://itch.io/embed-upload/15199337
 post: https://github.com/js13kGames/black-cat-squadron
 # See github.com/js13kGames/hello-world for supported frontmatter
